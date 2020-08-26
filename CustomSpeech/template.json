@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "accounts_AVCustomSpeech_name": {
-            "defaultValue": "AVCustomSpeech",
+            "defaultValue": "CustomSpeechResource",
             "type": "String"
         }
     },
